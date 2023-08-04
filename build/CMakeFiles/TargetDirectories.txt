@@ -1,0 +1,3 @@
+/Users/hyunyoung-kim/openfhe-demo/build/CMakeFiles/hyk-program.dir
+/Users/hyunyoung-kim/openfhe-demo/build/CMakeFiles/edit_cache.dir
+/Users/hyunyoung-kim/openfhe-demo/build/CMakeFiles/rebuild_cache.dir
